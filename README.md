@@ -1,4 +1,4 @@
-# Treap-
+# Generalized Treap
 Generalized Treap with Lazy Propagation
 A treap is a data structure which combines binary tree and binary heap (hence the name: tree + heap = Treap).
 It is a powerful data structure which can do a lot of operations in O(log(n)) amortized.
